@@ -1,6 +1,6 @@
 
 import { connect } from "cloudflare:sockets";
-
+https://amdcloud-my.sharepoint.com/:o:/r/personal/taohu103_amd_com/Documents/Tao%20@%20Work?d=wd5616e5b41834faba283c8123cb5d62f&csf=1&web=1&e=ipActd
 let password = '';
 let proxyIP = '';
 let DNS64Server = '';
